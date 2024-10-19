@@ -1,4 +1,10 @@
 
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
 /* combine  */
 .orange-color{
     color: tomato;
@@ -622,6 +628,10 @@ select{
     gap: -20px;
     font-size: 14px;
     border-radius: 5px;
+
+    transform: scale(1.5) translateX(22vw) translateY(2.4vw) rotate(-30deg);
+   
+
     
 }
 
